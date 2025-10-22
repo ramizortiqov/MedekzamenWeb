@@ -1,0 +1,5 @@
+{
+  "name": "MedEkzamen Web App",
+  "description": "A web application for medical students to access exam materials, lectures, practice sessions, and summaries, mirroring the functionality of the MedEkzamen Telegram bot.",
+  "requestFramePermissions": []
+}
